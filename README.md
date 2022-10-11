@@ -1,59 +1,27 @@
 ## Seja Bem Vindo!
 
-{
-    "hugo-soaresdias": 1, 
-    "courseProgress": [
-        {
-            "slug": "curso-bacana",
-            "finished": false,
-            "name": "Curso muito bacana",
-            "lasAccessTime": 1594756295000,
-            "id": 123,
-            "progress": 2
-            "readyToFinish": false
-        },
-        // ... X quantidade de cursos
-    ],
-    "guides": [
-        {
-            "id": 234,
-            "code": "bacana",
-            "name": "Formação Bacana",
-            "url": "/formacao-bacana",
-            "lastAccessTime": 1588265665000,
-            "kind": "DEGREE",
-            "totalCourses": 15,
-            "finishedCourses": 4,
-            "color": "#57c478",
-            "author": ""
-        },
-        // ... X quantidade de guides
-    
-    ]
-}
 <br>
-
 <div align="center">
   <a href="https://github.com/hugodias2">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugodias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodias2&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Geo-Java" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Geo-Linux" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Geo-Git" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-
 ## Sobre 
 <div>
-
 Sou técnico em informática com conhecimento em Lógica de programação, linguagens de programação. sistemas operacionais. hardware, software, manutenção de computadores e redes de computadores. 
 
 Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas. que mantém uma atitude positiva e proativa diante das adversidades.
 
 Atualmente, estou buscando conhecimento e oportunidades que me permitam desenvolver e promover tecnologias relacionadas a área de dev.
 </div>
+    
 <div>
  ##
 <p>  

@@ -11,7 +11,7 @@
   <img align="center" alt="Geo-Java" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Geo-Linux" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Geo-Git" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  ![image](https://user-images.githubusercontent.com/110143469/195138536-d126eac5-be1e-4577-8acf-7cd71d12289b.png)
+  <img align="center" alt="Geo-Git" height="20" width="25" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1659460843Badge_JS_Alura_ChallengeOracleONE_2000x2000_V3.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_br&utm_medium=email&utm_source=RD+Station">
 
 </div>
 

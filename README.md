@@ -1,5 +1,38 @@
 ## Seja Bem Vindo!
 
+{
+    "hugo-soaresdias": 1, 
+    "courseProgress": [
+        {
+            "slug": "curso-bacana",
+            "finished": false,
+            "name": "Curso muito bacana",
+            "lasAccessTime": 1594756295000,
+            "id": 123,
+            "progress": 2
+            "readyToFinish": false
+        },
+        // ... X quantidade de cursos
+    ],
+    "guides": [
+        {
+            "id": 234,
+            "code": "bacana",
+            "name": "Formação Bacana",
+            "url": "/formacao-bacana",
+            "lastAccessTime": 1588265665000,
+            "kind": "DEGREE",
+            "totalCourses": 15,
+            "finishedCourses": 4,
+            "color": "#57c478",
+            "author": ""
+        },
+        // ... X quantidade de guides
+    
+    ]
+}
+<br>
+
 <div align="center">
   <a href="https://github.com/hugodias2">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugodias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
